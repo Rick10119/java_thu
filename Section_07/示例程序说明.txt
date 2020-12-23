@@ -1,0 +1,21 @@
+P.12 递归示例：斐波那契数计算
+	Demo1.java
+
+P.15 示例，n次消息打印
+	Demo2.java
+
+P.16 示例（2）－选择排序
+	Demo3.java
+
+P.17 示例（3）－国际象棋八皇后问题
+	Demo4.java
+
+P.18 示例（4）－九连环的解法
+	Test.java
+	NingRing.java
+
+P.20 迭代法
+	SquareRoot.java
+
+P.22 迭代法示例——验证谷角猜想
+	Demo5.java

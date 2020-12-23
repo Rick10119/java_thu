@@ -1,0 +1,43 @@
+P.7 抽象类的定义
+	Vehicle.java
+	Car.java
+	Truck.java
+
+P.8 抽象类作为数据类型
+	TestVehicle.java
+	Vehicle.java
+	Car.java
+	Truck.java
+
+P.11 抽象方法示例
+	TestGeometricObject.java
+	GeometricObject.java
+	Circle.java
+	Rectangle.java
+
+P.16 接口定义示例
+	Steerable.java
+	Vehicle.java
+	Car.java（待现场修改）
+	Truck.java
+	Boat.java
+	Cruiser.java
+	Human.java
+
+P.25 抽象类Calendar和GregorianCalendar子类
+	TestCalendar.java
+
+P.26 接口示例－GUI界面的事件驱动编程
+	HandleEvent.java
+	DetectSourceDemo.java
+
+P.27 接口示例－Comparable接口
+	TestComparable.java
+	Comparable.java
+	ComparableRectangle.java
+	ComparableStudent.java
+	Rectangle.java
+	Student.java
+	
+
+作业使用的类已包含在以上程序中，不再单独列出(^_-)

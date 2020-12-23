@@ -1,0 +1,46 @@
+P.5 常用数学函数方法——三角函数方法
+	Test1.java
+
+P.6 常用数学函数方法——指数函数与取整方法
+	Test2.java
+
+P.9 字符类（Character）特殊的方法
+	Test3.java
+
+P.13 字符串与字符数组
+	Test4.java
+
+P.14 字符串对象的限定
+	Test5.java
+
+P.17 字符串比较
+	Test6.java
+
+P.18 字符串比较
+	Test7.java
+
+P.19 字符串长度、获取字符及合并字符串方法
+	Demo1.java
+
+P.20 获取子串方法
+	Demo2.java
+
+P.22 字符串的转换和格式化字符串
+	Demo3.java
+	Demo4.java
+
+P.24 重新认识main方法
+	Test8a.java
+	Test8b.java
+
+P.25 命令行参数
+	Test8b.java
+
+P.26 命令行参数应用示例
+	Demo5.java
+
+P.30 文件示例
+	FileDemo.java
+
+字符数组及数学函数应用示例
+	Chart.java

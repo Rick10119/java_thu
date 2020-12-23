@@ -1,0 +1,31 @@
+p.22 父类和子类示例
+	TestGeometricObject.java（入口）
+	GeometricObject.java
+	Circle.java
+	Rectangle.java
+
+p.24 父类构造方法的调用和构造方法链
+	TestFaculty.java（入口）
+	Faculty.java
+	Employee.java
+	Person.java
+
+p.28 方法的overload和override
+	Test.java（入口）
+	A.java
+	B.java
+
+p.30 多态
+	Polymorphism.java（入口）
+	GeometricObject.java
+	Circle.java
+	Rectangle.java
+
+P.33 Object类的toString( )方法
+	Try.java（入口）
+	any others
+
+p.35 instanceof运算符
+	Casting.java（入口）
+	Circle.java
+	Rectangle.java
